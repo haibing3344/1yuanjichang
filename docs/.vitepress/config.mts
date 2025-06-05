@@ -15,10 +15,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.png',
     nav: [
-      { text: '介绍', link: '/about' },
-      { text: '客户端下载', link: '/download' },
-      { text: '使用教程', link: '/tutorial' },
-      { text: '🎉购买订阅', link: '/feed' },
+      { text: '介绍', link: '/about.md' },
+      { text: '客户端下载', link: '/download.md' },
+      { text: '使用教程', link: '/tutorial.md' },
+      { text: '🎉购买订阅', link: '/feed.md' },
       { text: '登录/注册', link: 'https://suola.link/w' }
     ],
 
@@ -26,19 +26,19 @@ export default defineConfig({
       {
         text: '快速开始',
         items: [
-          { text: '介绍', link: '/about' },
-          { text: '下载', link: '/download' },
-          { text: '教程', link: '/tutorial' }
+          { text: '介绍', link: '/about.md' },
+          { text: '下载', link: '/download.md' },
+          { text: '教程', link: '/tutorial.md' }
         ]
       },
       {
         text: '使用说明',
         items: [
-          { text: 'Clash(小猫咪) For Windows', link: '/wiki/Windows' },
-          { text: 'Clash(小猫咪) For Android', link: '/wiki/Android' },
-          { text: 'Clash(小猫咪) For MacOS', link: '/wiki/macOS' },
-          { text: 'Clash(小猫咪) For OpenWrt', link: '/wiki/openWrt' },
-          { text: 'Shadowrocket For iPhoneOS', link: '/wiki/iPhoneOS' },
+          { text: 'Clash(小猫咪) For Windows', link: '/wiki/Windows.md' },
+          { text: 'Clash(小猫咪) For Android', link: '/wiki/Android.md' },
+          { text: 'Clash(小猫咪) For MacOS', link: '/wiki/macOS.md' },
+          { text: 'Clash(小猫咪) For OpenWrt', link: '/wiki/openWrt.md' },
+          { text: 'Shadowrocket For iPhoneOS', link: '/wiki/iPhoneOS.md' },
         ]
       }
     ],
