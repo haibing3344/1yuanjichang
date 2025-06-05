@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /assets/
+
+Sitemap: https://yiyuanvpn.org/sitemap.xml
