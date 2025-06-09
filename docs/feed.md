@@ -34,7 +34,7 @@ import { ref } from 'vue'
 | 4K流媒体、频繁下载 | 5-7 GB | 600+ GB |
 
 
-## 靠谱机场推荐：
+## 性价比机场推荐：
 
 <div class="pricing-container">
 
@@ -65,7 +65,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">优信云<span style="color: red;"><b>👍推荐</b></span></div>
   <div class="pricing-price">¥15.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://www.优信云.com/#/register?code=JRtE5uIV" target="_blank" class="buy-button">
+  <a href="https://www.youxin66.net/#/register?code=JRtE5uIV" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -133,7 +133,6 @@ import { ref } from 'vue'
 5. 节点20+
 6. 在线设备最多5人
 </div>
-
 
 <div class="pricing-card">
   <div class="pricing-title"><span style="color: red;">XXYUN</span></div>
@@ -276,9 +275,34 @@ import { ref } from 'vue'
 </div>
 </div>
 
-## 优质机场推荐：
+## 优质靠谱机场推荐：
 
 <div class="pricing-container">
+<div class="pricing-card">
+  <div class="pricing-title">闪狐云</div>
+  <div class="pricing-price">¥20.00 <span class="pricing-unit">每月</span></div>
+  <a href="https://inv02.ffaff.cc/register?aff=WQApz2pv" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：120 GB
+- 速度：不限速
+- 设备数：无限制
+
+使用说明
+
+0. **<span style="color: red;">💛618全场8折优惠码：flashfox618</span>**
+1. BGP隧道中转，IPLC高速内网纯专线出口。
+2. 5大运营商动态优化。
+3. trojan协议，轻量、高速、加密。
+4. 解锁全球流媒体、AI工具。
+5. 无设备和ip限制。
+6. 1000Mbps速率，晚高峰不限速。
+7. 专业人工客服，快速响应。
+</div>
+
 <div class="pricing-card">
   <div class="pricing-title">Taishan</div>
   <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
@@ -324,6 +348,30 @@ import { ref } from 'vue'
 4. ✅️ 媒体：解锁流媒体,ChatGPT
 5. ✅️ 传输：SS协议 | Secure隧道
 6. 🚫 仅限个人使用暂不支持退款
+</div>
+
+<div class="pricing-card">
+  <div class="pricing-title">白羊星</div>
+  <div class="pricing-price">¥12.00 <span class="pricing-unit">每月</span></div>
+  <a href="https://baiyangxing.com/#/register?code=I6IGk5n6" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：100 GB
+- 速度： 不限速
+- 设备数：5
+
+使用说明
+
+1. **注册免费体验6小时.**
+2. 每月购买日免费重置流量，手动重置流量 7CNY /次
+3. 多地BGP跨境专线出国
+4. Netfilx/Hulu/Hbo/Disney+/Chatgpt等流媒体
+5. 全球 60+ 国家/地区， 50+ 节点
+6. SS-Obfs协议，支持 5 台设备同时使用
+7. 不支持 ，新疆地区
 </div>
 
 <div class="pricing-card">
@@ -374,6 +422,9 @@ import { ref } from 'vue'
 6. **<span style="color: red;">💛24小時3G流量試用丨滿意後購買</span>**
 </div>
 
+
+
+
 <div class="pricing-card">
   <div class="pricing-title">CHCC</div>
   <div class="pricing-price">¥14.90 <span class="pricing-unit">每月</span></div>
@@ -417,13 +468,13 @@ import { ref } from 'vue'
 3. 流媒体解锁、Chat GPT解锁
 4. 1000M带宽
 5. 在线客服售后保障
-6. **<span style="color: red;">💛季付 / 半年 / 年付优惠 </span>**
+6. **<span style="color: red;">💛季付 / 半年 / 年付优惠</span>**
 </div>
 </div>
 
 ## 大流量机场推荐：
 <div class="pricing-container">
-  <div class="pricing-card">
+ <div class="pricing-card">
   <div class="pricing-title">魔戒</div>
   <div class="pricing-price">¥14.90 <span class="pricing-unit" style="color: red;">不限时</span></div>
   <a href="https://mojie.app/#/register?code=sSdtPtLo" target="_blank" class="buy-button">
@@ -443,7 +494,8 @@ import { ref } from 'vue'
 3. ✅不限制使用人数
 4. ✅不限制到期时间
 5. ✅不限制网络速度
-</div> 
+</div>
+
 <div class="pricing-card">
   <div class="pricing-title">旗舰款套餐-大流量</div>
   <div class="pricing-price">¥9.90 <span class="pricing-unit">每月</span></div>
@@ -462,7 +514,7 @@ import { ref } from 'vue'
 1. 🚀 优质机场领先者，畅享极速网络
 2. 🍬 每月送你1T甜甜的流量
 3. 🖥 集群部署，保障稳定与高性能
-4. 📱 支持多设备连接，无需限制
+4. v📱 支持多设备连接，无需限制
 5. ⚡️ 高达1Gbps的极速体验
 6. 🔓 解锁全球流媒体，畅享无阻
 7. 适合追剧、下载等对流量需求较大的同学使用
