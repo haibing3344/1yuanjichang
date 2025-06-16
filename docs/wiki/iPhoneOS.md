@@ -12,8 +12,8 @@ head:
 
 -   需要使用境外 Apple ID 才能下载。以下是公益共享 Apple ID 网站推荐：
     
-    -   [https://free.iosapp.icu](https://free.iosapp.icu/)
-    -   [https://idfree.top](https://idfree.top/)
+    -   [https://idshare001.me/applego.html](https://idshare001.me/applego.html)
+    -   [https://id001.me/applego.html](https://id001.me/applego.html)
 -   如共享账号无法使用，建议自行购买外区带有 Shadowrocket 的账号，**以后可以永久使用**。
     
     推荐商家：
