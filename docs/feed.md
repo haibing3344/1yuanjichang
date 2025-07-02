@@ -143,7 +143,7 @@ import { ref } from 'vue'
   </a>
     
     套餐特点
-- **<span style="color: red;">618 85折优惠码：xxyun618</span>**
+- **<span style="color: red;">新用户85折优惠码：xxyun85</span>**
 - 流量：100 GB
 - 速度：800Mbps
 - 设备数：不限制
@@ -406,7 +406,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">银河云</div>
   <div class="pricing-price">¥8.00 <span class="pricing-unit">每月/<b>年付98元</b></span></div>
-  <a href="https://inv02.galaxyaff.cc/register?aff=la8LavLb" target="_blank" class="buy-button">
+  <a href="https://haibing822.galaxyvipaff01.cc/register?aff=la8LavLb" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
