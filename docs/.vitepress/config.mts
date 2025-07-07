@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
-import { SitemapStream } from 'sitemap'
-import { createWriteStream } from 'node:fs'
-import { resolve } from 'node:path'
+//import { SitemapStream } from 'sitemap'
+//import { createWriteStream } from 'node:fs'
+//import { resolve } from 'node:path'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -80,7 +80,7 @@ export default defineConfig({
     const isoDate = lastUpdated ? new Date(lastUpdated).toISOString() : null;
     
     //siteUrl
-    const siteUrl = 'https://www.yiyuanvpn.org';
+    const siteUrl = 'https://www.1yuanjichang.org';
     
     // canonical
     const canonicalUrl =
