@@ -80,7 +80,7 @@ export default defineConfig({
     const isoDate = lastUpdated ? new Date(lastUpdated).toISOString() : null;
     
     //siteUrl
-    const siteUrl = 'https://www.1yuanjichang.org';
+    const siteUrl = 'https://www.1yuanjingchang.org';
     
     // canonical
     const canonicalUrl =
