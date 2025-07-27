@@ -276,6 +276,33 @@ import { ref } from 'vue'
  5. 通知频道群与工单售后保障 
  6. **<span style="color: red;">🚀 优惠超值，包全年仅需40元</span>**
 </div>
+
+<div class="pricing-card">
+  <div class="pricing-title">淘气兔</div>
+  <div class="pricing-price">7.80 <span class="pricing-unit">每月</span></div>
+  <a href="https://a.suola.link/taoqitu" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：100 GB
+- 速度：不限速
+- 设备数：25
+
+使用说明
+
+
+1. ✓ 每月流量：100G
+2. ✓ 全中转1倍率(15-30个设备链接)
+3. ✓ IEPL专线均为2倍率
+4. ✓ 支持ChatGPT/奈飞/迪士尼等
+5. ✓ 无退款服务，请悉知
+6. ✓ 请自行配置订阅信息
+7. ✓ 如发现恶意公开订阅立即封号
+8. <span style="color: red;">❌新疆无法使用！请勿下单！</span>
+</div>
+
 </div>
 
 ## 优质靠谱机场推荐：
