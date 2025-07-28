@@ -65,7 +65,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">优信云<span style="color: red;"><b>👍推荐</b></span></div>
   <div class="pricing-price">¥15.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://www.youxin66.net/#/register?code=JRtE5uIV" target="_blank" class="buy-button">
+  <a href="https://a.suola.link/youxinyun" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -302,7 +302,8 @@ import { ref } from 'vue'
 7. ✓ 如发现恶意公开订阅立即封号
 8. <span style="color: red;">❌新疆无法使用！请勿下单！</span>
 </div>
-
+<div>
+</div>
 </div>
 
 ## 优质靠谱机场推荐：
