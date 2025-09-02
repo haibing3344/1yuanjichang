@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /assets/
+
+Sitemap: https://xn--4gq62f52gdss.space/sitemap-index.xml
