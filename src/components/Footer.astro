@@ -1,0 +1,46 @@
+---
+import Default from '@astrojs/starlight/components/Footer.astro';
+---
+
+<Default>
+	<slot />
+</Default>
+
+<div class="custom-footer">
+	<div class="footer-message">
+		欢迎使用一元机场【一元机场官网，一元机场注册地址】，一杯咖啡的钱，畅游全球网络
+	</div>
+	<div class="footer-copyright">
+		Copyright © 2025  <a href="/"> 一元机场 </a>
+	</div>
+</div>
+
+<style>
+	.custom-footer {
+		padding: 1rem;
+		text-align: center;
+		border-top: 1px solid var(--sl-color-gray-5);
+		margin-top: 2rem;
+		background-color: var(--sl-color-bg-nav);
+	}
+	
+	.footer-message {
+		margin-bottom: 0.5rem;
+		font-size: 0.9rem;
+		color: var(--sl-color-text-accent);
+	}
+	
+	.footer-copyright {
+		font-size: 0.8rem;
+		color: var(--sl-color-text);
+	}
+	
+	.footer-copyright a {
+		color: var(--sl-color-text-accent);
+		text-decoration: none;
+	}
+	
+	.footer-copyright a:hover {
+		text-decoration: underline;
+	}
+</style>
