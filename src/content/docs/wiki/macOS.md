@@ -1,6 +1,6 @@
 ---
 title: 一元机场，Clash For MacOS使用教程
-description: 一元机场客户端下载
+description: 一元机场macOS客户端下载
 head:
   - tag: meta
     attrs:
