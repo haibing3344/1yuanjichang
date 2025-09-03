@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /assets/
 
-Sitemap: https://xn--4gq62f.live/sitemap-index.xml
+Sitemap: https://1yuanjingchang.org/sitemap-index.xml
