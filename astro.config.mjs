@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://xn--4gq62f52gdss.space',
+	site: 'https://xn--4gq62f.live',
 	integrations: [
 		starlight({
 			title: '一元机场官网，一元机场登录地址，一元机场ink',
