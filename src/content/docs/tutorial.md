@@ -9,7 +9,6 @@ head:
       content: 一元机场,机场推荐,VPN,科学上网,网络加速器
 ---
 
-# 教程
 
 [一元机场](/)支持多种客户端，包括Clash、Shadowsocket、Surge、Surfboard、ShadowsocksR、Quantumult X。下面以clash for windows举例，可用通过 [Clash for Windows](https://cmhk.node-is.green/d/root/clash_for_windows_x64_cn.zip)下载客户端。
 
